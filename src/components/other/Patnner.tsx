@@ -1,4 +1,3 @@
-import React from "react";
 import partner from "@/assets/Partnner.png";
 function Patnner() {
   return (

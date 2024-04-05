@@ -1,4 +1,3 @@
-import React from "react";
 import Navbar from "./components/other/Navbar";
 import Hero from "./components/other/Hero";
 import Partnner from "./components/other/Patnner";
